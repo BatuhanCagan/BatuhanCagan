@@ -24,3 +24,5 @@
 </div>
   
   ##
+
+![Snake animation](https://github.com/BatuhanCagan/BatuhanCagan/blob/output/github-contribution-grid-snake.svg)
