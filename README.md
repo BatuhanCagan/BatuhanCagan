@@ -18,7 +18,7 @@
   ##
   
 <div> 
-  <a href="https://www.linkedin.com/in/batuhan-cagan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/batuhan-cagan/" target="_blank"><img src="https://giphy.com/embed/wwg1suUiTbCY8H8vIA" target="_blank"></a> 
   <a href="https://twitter.com/just_batu"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white%22/%3E"</a>
   
 </div>
