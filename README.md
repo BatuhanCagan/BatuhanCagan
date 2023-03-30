@@ -3,9 +3,9 @@
 <div align="center">
   <a href="https://github.com/BatuhanCagan">
 </div>
-<div align="center">
+
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Batukush&theme=python-dark&mode=weekly)](https://git.io/streak-stats)
-  </div>
+
   <div id="badges" align = "center">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/batuhan-cagan/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
